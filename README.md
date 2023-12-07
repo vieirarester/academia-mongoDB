@@ -25,8 +25,5 @@ db.createCollection("exercicios")
 1. Clone este repositório em sua máquina.
 2. Abra o projeto em seu ambiente de desenvolvimento (Eclipse, IntelliJ, etc.).
 3. Execute a classe App para iniciar a aplicação.
-```
-java -cp <seu-classpath> vieira.ester.academia.App
-```
 4. O menu será exibido no console. Siga as opções para interagir com a aplicação.
 
