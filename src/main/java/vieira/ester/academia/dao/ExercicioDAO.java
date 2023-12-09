@@ -1,4 +1,4 @@
-package vieira.ester.academia;
+package vieira.ester.academia.dao;
 
 import com.mongodb.MongoClientSettings;
 import com.mongodb.ServerAddress;
@@ -9,6 +9,8 @@ import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.model.Updates;
+
+import vieira.ester.academia.model.Exercicio;
 
 import java.util.ArrayList;
 import java.util.Arrays;

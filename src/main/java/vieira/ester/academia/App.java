@@ -2,6 +2,9 @@ package vieira.ester.academia;
 
 import java.util.Scanner;
 
+import vieira.ester.academia.controller.MenuController;
+import vieira.ester.academia.dao.ExercicioDAO;
+
 public class App {
     public static void main(String[] args) {
         try {

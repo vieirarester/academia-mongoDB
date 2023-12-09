@@ -1,6 +1,9 @@
-package vieira.ester.academia;
+package vieira.ester.academia.controller;
 
 import java.util.Scanner;
+
+import vieira.ester.academia.dao.ExercicioDAO;
+import vieira.ester.academia.model.Exercicio;
 
 public class MenuController {
 

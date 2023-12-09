@@ -1,4 +1,4 @@
-package vieira.ester.academia;
+package vieira.ester.academia.model;
 
 import org.bson.Document;
 
